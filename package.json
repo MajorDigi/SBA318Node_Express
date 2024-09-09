@@ -1,0 +1,19 @@
+{
+  "name": "sba318node_express",
+  "version": "1.0.0",
+  "description": "This project involves creating a Node.js and Express server application with a RESTful API. The application includes custom middleware, error-handling middleware, and a view rendered using a template engine.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
